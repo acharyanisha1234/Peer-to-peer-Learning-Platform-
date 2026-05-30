@@ -1,4 +1,4 @@
-# 🎓 PeerLearn – Peer-to-Peer Learning Platform
+# PeerLearn – Peer-to-Peer Learning Platform
 
 PeerLearn is a collaborative web-based learning platform designed to connect students, self-learners, and educators in an interactive online environment. The platform allows users to ask questions, share learning resources, provide answers, and engage in academic discussions, promoting knowledge sharing and peer-to-peer learning.
 
@@ -6,9 +6,9 @@ Built using **Java (J2EE), JSP, Servlets, and MySQL**, PeerLearn follows the **M
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👨‍🎓 User Features
+### User Features
 
 * User Registration & Login
 * Profile Management
@@ -18,24 +18,24 @@ Built using **Java (J2EE), JSP, Servlets, and MySQL**, PeerLearn follows the **M
 * Search & Filter Posts
 * Participate in Discussions and Comments
 
-### 👨‍💼 Admin Features
+### Admin Features
 
 * Secure Admin Authentication
 * User Management
 * Content Moderation
 * Platform Monitoring
 
-### 🔒 Security Features
+### Security Features
 
 * Role-Based Access Control
 * Session Management
 * Authentication & Authorization
 * Form Validation
-* URL Access Restriction using Filters
+* URL Access Restriction Using Filters
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 The application follows the MVC Architecture:
 
@@ -45,7 +45,7 @@ The application follows the MVC Architecture:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -70,7 +70,7 @@ The application follows the MVC Architecture:
 
 ---
 
-## 🗄️ Database Tables
+## Database Tables
 
 * Users
 * Posts
@@ -80,7 +80,7 @@ The application follows the MVC Architecture:
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 * Create an interactive peer-learning environment.
 * Enable collaborative knowledge sharing.
@@ -90,7 +90,7 @@ The application follows the MVC Architecture:
 
 ---
 
-## 👩‍💻 Author
+## Author
+
 **Nisha Acharya**
 BIT Student
----
