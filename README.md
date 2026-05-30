@@ -92,6 +92,5 @@ The application follows the MVC Architecture:
 
 ## 👩‍💻 Author
 **Nisha Acharya**
-BIT Student | Java Full-Stack Developer
-
+BIT Student
 ---
